@@ -234,4 +234,11 @@
       justify-items: center;
       gap: 50px;
     }
+    .fact-description {
+      max-width: none;
+  }
+  .fact-container, .sponsor-companies{
+    justify-items: center;
+    gap: 40px;
+  }
   }
